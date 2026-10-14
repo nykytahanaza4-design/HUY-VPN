@@ -1,0 +1,6 @@
+{
+  "name": "HUY-VPN — Свободный и честный VPN",
+  "description": "Минималистичный, полностью бесплатный VPN с открытым исходным кодом. Все серверы честно собраны из открытых и бесплатных мировых узлов. Никаких логов, подписок и ограничений.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
